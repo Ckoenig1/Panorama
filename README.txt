@@ -6,7 +6,7 @@ slight modifications. Also PIL strips EXIF data causing orientation problems to 
 resave images before using them if necessary.
 
 
-![visualized_corners](visualized_corners.png)
+![visualized_corners](Panorama/visualized_corners.png)
 
 
 ![visualized_corners2](https://user-images.githubusercontent.com/65579262/128753626-9f7a4f9f-e8bd-4b30-98d1-e31ccc97a20b.png)
