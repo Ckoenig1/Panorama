@@ -4,3 +4,4 @@ This code is only made to handle two pictures that have quite a bit of overlap s
 you give it two pictures that only share their edges it likely wont work without some 
 slight modifications. Also PIL strips EXIF data causing orientation problems to avoid this
 resave images before using them if necessary.
+https://github.com/Ckoenig1/Panorama/blob/main/visualized_corners.png
