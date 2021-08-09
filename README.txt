@@ -7,6 +7,8 @@ resave images before using them if necessary.
 
 
 ![visualized_corners](visualized_corners.png)
+
+
 ![visualized_corners2](https://user-images.githubusercontent.com/65579262/128753626-9f7a4f9f-e8bd-4b30-98d1-e31ccc97a20b.png)
 ![paired_matches](https://user-images.githubusercontent.com/65579262/128753609-d58c10ad-61f6-4224-813c-89243406cac2.png)
 ![final_panorama](https://user-images.githubusercontent.com/65579262/128753611-9fdb409f-b433-4041-acc8-6ac80ab09311.png)
